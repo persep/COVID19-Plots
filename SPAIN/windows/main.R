@@ -41,9 +41,9 @@ cum_corrected <- TRUE # Just the whole aggregate Spanish data is corrected
 # the disaggregate data for each region (CCAA), the whole aggregate Spanish
 # data is fully computed.
 #
-# Regions available: "Andaluc??a", "Aragón", "Asturias", "Baleares", "Canarias",
-#                    "Cantabria", "Castilla y León", "Castilla La Mancha",
-#                    "Cataluña", "C. Valenciana", "Extremadura", "Galicia",
+# Regions available: "Andaluc??a", "Arag?n", "Asturias", "Baleares", "Canarias",
+#                    "Cantabria", "Castilla y Le?n", "Castilla La Mancha",
+#                    "Catalu?a", "C. Valenciana", "Extremadura", "Galicia",
 #                    "Madrid", "Murcia", "Navarra", "Pa??s Vasco", "La Rioja",
 #                    "Ceuta", "Melilla"
 regions <- c("Andalucía", "Aragón", "Asturias", "Baleares", "Canarias",
